@@ -219,9 +219,9 @@ a:hover, a:focus, a:active {
 }
 
 div.project-image {
-	max-width: 100%;
+	max-width: 70%;
 	width: 100%;
-	float: left;
+	float: right;
 }
 
 div.project-description {
